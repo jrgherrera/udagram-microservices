@@ -1,0 +1,4 @@
+.env
+.DS_Store
+set_env.sh
+node_modules
